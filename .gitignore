@@ -1,0 +1,32 @@
+# Unreal Engine build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal Engine logs and temporary files
+*.log
+*.tmp
+*.bak
+*.obj
+Saved/Crashes/
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.vs/
+.vsconfig
+
+# Plugin intermediate files
+Plugins/**/Intermediate/
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor preferences
+Config/DefaultEditorUserSettings.ini
+
